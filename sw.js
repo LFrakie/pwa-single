@@ -11,7 +11,9 @@ const CACHE_NAME = 'v1_cache_programador_fitness',
     './script.js',
     './img/ProgramadorFitness.png',
     './img/favicon.png',
-    './src/others/serenash.gif'
+    './src/others/serenash.gif',
+    'https://i.pinimg.com/originals/ed/7a/8c/ed7a8cbae40fe647587bcf5f39020f38.gif',
+    'https://media.tenor.com/KKdd0koqb0YAAAAd/pikachu-pokemon.gif'
   ]
 
 //durante la fase de instalación, generalmente se almacena en caché los activos estáticos
